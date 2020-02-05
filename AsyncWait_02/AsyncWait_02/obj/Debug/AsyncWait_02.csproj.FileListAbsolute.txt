@@ -1,0 +1,10 @@
+C:\Users\GelsonNote\source\repos\AsyncWait_02\AsyncWait_02\bin\Debug\AsyncWait_02.exe.config
+C:\Users\GelsonNote\source\repos\AsyncWait_02\AsyncWait_02\bin\Debug\AsyncWait_02.exe
+C:\Users\GelsonNote\source\repos\AsyncWait_02\AsyncWait_02\bin\Debug\AsyncWait_02.pdb
+C:\Users\GelsonNote\source\repos\AsyncWait_02\AsyncWait_02\obj\Debug\AsyncWait_02.csprojAssemblyReference.cache
+C:\Users\GelsonNote\source\repos\AsyncWait_02\AsyncWait_02\obj\Debug\AsyncWait_02.csproj.CoreCompileInputs.cache
+C:\Users\GelsonNote\source\repos\AsyncWait_02\AsyncWait_02\obj\Debug\AsyncWait_02.exe
+C:\Users\GelsonNote\source\repos\AsyncWait_02\AsyncWait_02\obj\Debug\AsyncWait_02.pdb
+D:\C Sharp\Programas e exercicios C sharp\Async await\AsyncWait_02\AsyncWait_02\bin\Debug\AsyncWait_02.exe.config
+D:\C Sharp\Programas e exercicios C sharp\Async await\AsyncWait_02\AsyncWait_02\obj\Debug\AsyncWait_02.exe
+D:\C Sharp\Programas e exercicios C sharp\Async await\AsyncWait_02\AsyncWait_02\obj\Debug\AsyncWait_02.pdb

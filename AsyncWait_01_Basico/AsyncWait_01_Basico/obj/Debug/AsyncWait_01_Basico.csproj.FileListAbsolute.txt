@@ -1,0 +1,7 @@
+C:\Users\GelsonNote\source\repos\AsyncWait_01_Basico\AsyncWait_01_Basico\bin\Debug\AsyncWait_01_Basico.exe.config
+C:\Users\GelsonNote\source\repos\AsyncWait_01_Basico\AsyncWait_01_Basico\bin\Debug\AsyncWait_01_Basico.exe
+C:\Users\GelsonNote\source\repos\AsyncWait_01_Basico\AsyncWait_01_Basico\bin\Debug\AsyncWait_01_Basico.pdb
+C:\Users\GelsonNote\source\repos\AsyncWait_01_Basico\AsyncWait_01_Basico\obj\Debug\AsyncWait_01_Basico.csprojAssemblyReference.cache
+C:\Users\GelsonNote\source\repos\AsyncWait_01_Basico\AsyncWait_01_Basico\obj\Debug\AsyncWait_01_Basico.csproj.CoreCompileInputs.cache
+C:\Users\GelsonNote\source\repos\AsyncWait_01_Basico\AsyncWait_01_Basico\obj\Debug\AsyncWait_01_Basico.exe
+C:\Users\GelsonNote\source\repos\AsyncWait_01_Basico\AsyncWait_01_Basico\obj\Debug\AsyncWait_01_Basico.pdb
